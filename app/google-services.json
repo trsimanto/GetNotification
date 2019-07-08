@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "495128402598",
+    "firebase_url": "https://simecnotification.firebaseio.com",
+    "project_id": "simecnotification",
+    "storage_bucket": "simecnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495128402598:android:345657fcf7015ef9",
+        "android_client_info": {
+          "package_name": "com.example.getnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495128402598-mtn17ve2ss9n4jhtt2b1dviluv5f3ptp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.getnotification",
+            "certificate_hash": "2b1d38387b0ce15d4bc54ba6c53d2d98ed931eef"
+          }
+        },
+        {
+          "client_id": "495128402598-3348dlq7cs5cmp8q8vj87ht73r486o9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY9SBH6p6jjS9dLcL4mEbuSREsd5Oi630"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495128402598-3348dlq7cs5cmp8q8vj87ht73r486o9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
